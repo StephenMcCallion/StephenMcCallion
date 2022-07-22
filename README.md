@@ -1,16 +1,15 @@
-### Hi there 👋
+### Howdy! I'm Stephen a .NET Developer
 
 <!--
 **StephenMcCallion/StephenMcCallion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning: React
+- 👯 I’m looking to collaborate on: Any projects, happy to build and learn along the way!
+- 🤔 I’m looking for help with: .NET 6, Azure
+- 💬 Ask me about: ASP.NET, .NET Framework, IIS
+- 📫 How to reach me: stephenjmccallion@icloud.com
+- 😄 Pronouns: Him/He They/Them
+
+<a href="https://app.daily.dev/StephenM"><img src="https://api.daily.dev/devcards/ca6d3f58db1b43e18c71c437a0fab636.png?r=zu6" width="400" alt="Stephen McCallion's Dev Card"/></a>
