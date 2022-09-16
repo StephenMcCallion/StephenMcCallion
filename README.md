@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: stephenjmccallion@icloud.com
 - 😄 Pronouns: Him/He They/Them
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/StephenMcCallion/StephenMcCallion/blob/main/devcard.svg" width="400" alt="Stephen McCallion's Dev Card"/></a>
+<a href="https://app.daily.dev/StephenM"><img src="https://github.com/StephenMcCallion/StephenMcCallion/blob/main/devcard.svg" width="400" alt="Stephen McCallion's Dev Card"/></a>
