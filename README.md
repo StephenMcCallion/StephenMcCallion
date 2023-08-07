@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning: React
+- 🌱 I’m currently learning: Blazor
 - 👯 I’m looking to collaborate on: Any projects, happy to build and learn along the way!
 - 🤔 I’m looking for help with: .NET 6, Azure
 - 💬 Ask me about: ASP.NET, .NET Framework, IIS
